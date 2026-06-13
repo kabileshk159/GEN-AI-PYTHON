@@ -14,7 +14,7 @@ The range() function generates the numbers, and each number is printed one by on
 
 ## Output
 
-
+'''
 1
 2
 3
@@ -25,3 +25,4 @@ The range() function generates the numbers, and each number is printed one by on
 8
 9
 10
+'''
