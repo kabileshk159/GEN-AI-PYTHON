@@ -1,0 +1,376 @@
+RIGHT ANGLED TRIANGLE NUM ROW
+
+1 
+2 2 
+3 3 3 
+4 4 4 4 
+5 5 5 5 5 
+6 6 6 6 6 6 
+
+RIGHT ANGLED TRIANGLE NUM COL
+
+0 
+0 1 
+0 1 2 
+0 1 2 3 
+0 1 2 3 4 
+0 1 2 3 4 5 
+
+RIGHT ANGLED TRIANGLE ALPHA ROW
+
+a 
+b b 
+c c c 
+d d d d 
+e e e e e 
+f f f f f f 
+
+RIGHT ANGLED TRIANGLE ALPHA COL
+
+a 
+a b 
+a b c 
+a b c d 
+a b c d e 
+a b c d e f 
+
+RIGHT ANGLED TRIANGLE ALPHA UPPER ROW
+
+A 
+B B 
+C C C 
+D D D D 
+E E E E E 
+F F F F F F 
+
+RIGHT ANGLED TRIANGLE ALPHA UPPER COL
+
+A 
+A B 
+A B C 
+A B C D 
+A B C D E 
+A B C D E F 
+
+RIGHT ANGLED TRIANGLE STAR
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * * * 
+INVERTED RIGHT ANGLED TRIANGLE NUM ROW
+7 7 7 7 7 7 7 
+6 6 6 6 6 6 
+5 5 5 5 5 
+4 4 4 4 
+3 3 3 
+2 2 
+1 
+
+INVERTED RIGHT ANGLED TRIANGLE NUM COL
+0 1 2 3 4 5 6 
+0 1 2 3 4 5 
+0 1 2 3 4 
+0 1 2 3 
+0 1 2 
+0 1 
+0 
+
+INVERTED RIGHT ANGLED TRIANGLE ALPHA ROW
+g g g g g g g 
+f f f f f f 
+e e e e e 
+d d d d 
+c c c 
+b b 
+a 
+
+INVERTED RIGHT ANGLED TRIANGLE ALPHA COL
+a b c d e f g 
+a b c d e f 
+a b c d e 
+a b c d 
+a b c 
+a b 
+a 
+
+INVERTED RIGHT ANGLED TRIANGLE ALPHA UPPER ROW
+G G G G G G G 
+F F F F F F 
+E E E E E 
+D D D D 
+C C C 
+B B 
+A 
+
+INVERTED RIGHT ANGLED TRIANGLE ALPHA UPPER COL
+A B C D E F G 
+A B C D E F 
+A B C D E 
+A B C D 
+A B C 
+A B 
+A 
+
+INVERTED RIGHT ANGLED TRIANGLE STAR
+* * * * * * * 
+* * * * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+* 
+
+LEFT ANGLED TRIANGLE NUM ROW
+       
+      1
+     22
+    333
+   4444
+  55555
+ 666666
+
+LEFT ANGLED TRIANGLE NUM COL
+       
+      0
+     01
+    012
+   0123
+  01234
+ 012345
+
+LEFT ANGLED TRIANGLE ALPHA ROW
+       
+      a
+     bb
+    ccc
+   dddd
+  eeeee
+ ffffff
+
+LEFT ANGLED TRIANGLE ALPHA COL
+       
+      a
+     ab
+    abc
+   abcd
+  abcde
+ abcdef
+
+LEFT ANGLED TRIANGLE ALPHA UPPER ROW
+       
+      A
+     BB
+    CCC
+   DDDD
+  EEEEE
+ FFFFFF
+
+LEFT ANGLED TRIANGLE ALPHA UPPER COL
+       
+      A
+     AB
+    ABC
+   ABCD
+  ABCDE
+ ABCDEF
+
+LEFT ANGLED TRIANGLE STAR
+       
+      *
+     **
+    ***
+   ****
+  *****
+ ******
+
+INVERTED LEFT ANGLED TRIANGLE NUM ROW
+7777777
+ 666666
+  55555
+   4444
+    333
+     22
+      1
+
+INVERTED LEFT ANGLED TRIANGLE NUM COL
+0123456
+ 012345
+  01234
+   0123
+    012
+     01
+      0
+
+INVERTED LEFT ANGLED TRIANGLE ALPHA ROW
+ggggggg
+ ffffff
+  eeeee
+   dddd
+    ccc
+     bb
+      a
+
+INVERTED LEFT ANGLED TRIANGLE ALPHA COL
+abcdefg
+ abcdef
+  abcde
+   abcd
+    abc
+     ab
+      a
+
+INVERTED LEFT ANGLED TRIANGLE ALPHA UPPER ROW
+GGGGGGG
+ FFFFFF
+  EEEEE
+   DDDD
+    CCC
+     BB
+      A
+
+INVERTED LEFT ANGLED TRIANGLE ALPHA UPPER COL
+ABCDEFG
+ ABCDEF
+  ABCDE
+   ABCD
+    ABC
+     AB
+      A
+
+INVERTED LEFT ANGLED TRIANGLE STAR
+*******
+ ******
+  *****
+   ****
+    ***
+     **
+      *
+
+PYRAMID NUM ROW
+       
+      1 
+     2 2 
+    3 3 3 
+   4 4 4 4 
+  5 5 5 5 5 
+ 6 6 6 6 6 6 
+
+PYRAMID NUM COL
+       
+      0 
+     0 1 
+    0 1 2 
+   0 1 2 3 
+  0 1 2 3 4 
+ 0 1 2 3 4 5 
+
+PYRAMID ALPHA ROW
+       
+      a 
+     b b 
+    c c c 
+   d d d d 
+  e e e e e 
+ f f f f f f 
+
+PYRAMID ALPHACOL
+       
+      a 
+     a b 
+    a b c 
+   a b c d 
+  a b c d e 
+ a b c d e f 
+
+PYRAMID ALPHA UPPER ROW
+       
+      A 
+     B B 
+    C C C 
+   D D D D 
+  E E E E E 
+ F F F F F F 
+
+PYRAMID ALPHA UPPER COL
+       
+      A 
+     A B 
+    A B C 
+   A B C D 
+  A B C D E 
+ A B C D E F 
+
+PYRAMID STAR
+       
+      * 
+     * * 
+    * * * 
+   * * * * 
+  * * * * * 
+ * * * * * * 
+
+INVERTED PYRAMID NUM ROW
+7 7 7 7 7 7 7 
+ 6 6 6 6 6 6 
+  5 5 5 5 5 
+   4 4 4 4 
+    3 3 3 
+     2 2 
+      1 
+
+INVERTED PYRAMID NUM COL
+0 1 2 3 4 5 6 
+ 0 1 2 3 4 5 
+  0 1 2 3 4 
+   0 1 2 3 
+    0 1 2 
+     0 1 
+      0 
+
+INVERTED PYRAMID ALPHA ROW
+g g g g g g g 
+ f f f f f f 
+  e e e e e 
+   d d d d 
+    c c c 
+     b b 
+      a 
+
+INVERTED PYRAMID ALPHACOL
+a b c d e f g 
+ a b c d e f 
+  a b c d e 
+   a b c d 
+    a b c 
+     a b 
+      a 
+
+INVERTED PYRAMID ALPHA UPPER ROW
+G G G G G G G 
+ F F F F F F 
+  E E E E E 
+   D D D D 
+    C C C 
+     B B 
+      A 
+
+INVERTED PYRAMID ALPHA UPPER COL
+A B C D E F G 
+ A B C D E F 
+  A B C D E 
+   A B C D 
+    A B C 
+     A B 
+      A 
+
+INVERTED PYRAMID STAR
+* * * * * * * 
+ * * * * * * 
+  * * * * * 
+   * * * * 
+    * * * 
+     * * 
+      * 
