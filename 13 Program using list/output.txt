@@ -1,0 +1,11 @@
+======================= RESTART: C:\Python314\list sum.py ======================
+sum of list
+15
+max element in list
+345
+min element in list
+4.33
+average in list
+3.0
+no of even numbers in the list
+4
